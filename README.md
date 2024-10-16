@@ -1,2 +1,2 @@
 # AI-project
-analyzing sales data set and applying 3 machine learning algorithms
+Soda Sales forecasting/prediction using multiple linear regression 
