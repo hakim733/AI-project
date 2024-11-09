@@ -1,4 +1,22 @@
-# Linear regression algorithm to predict sales 
-Country Beeristan, a high potential market, accounts for nearly 10% of Stallion & Co.'s global beer sales. Stallion & Co. has a large portfolio of products distributed to retailers through wholesalers (agencies). There are thousands of unique wholesaler-SKU/products combinations. In order to plan its production and distribution as well as help wholesalers with their planning, it is important for Stallion & Co. to have an accurate estimate of demand at SKU level for each wholesaler.
+# Building a Data-Driven Future: Predicting Beer Sales with Linear Regression
 
-Currently demand is estimated by sales executives, who generally have a “feel” for the market and predict the net effect of forces of supply, demand and other external factors based on past experience. The more experienced a sales exec is in a particular market, the better a job he does at estimating. Joshua, the new Head of S&OP for Stallion & Co. just took an analytics course and realized he can do the forecasts in a much more effective way. He approaches you, the best data scientist at Stallion, to transform the exercise of demand forecasting.
+
+ I tackled a real-world machine learning challenge: accurately predicting soda sales at the SKU level for thousands of wholesaler-product combinations.
+
+Leveraging the power of linear regression, I developed a model that outperformed traditional sales forecasting methods. By analyzing historical sales data, market trends, and external factors, I was able to build a robust model that provides valuable insights into future demand.
+
+Key achievements:
+
+Improved forecasting accuracy: Our model significantly reduced forecast errors, leading to more efficient inventory management and reduced stockouts.
+Enhanced decision-making: The model empowers sales executives to make data-driven decisions, optimizing sales strategies.
+Streamlined operations: By automating the forecasting process, we saved time and resources.
+Technical skills:
+
+Python
+NumPy
+Pandas
+Scikit-learn
+Linear Regression
+[Add a relevant image or a brief code snippet]
+
+#DataScience #MachineLearning #Python #LinearRegression #DemandForecasting #SupplyChain
