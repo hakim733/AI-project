@@ -7,13 +7,13 @@ Currently demand is estimated by sales executives, who generally have a “feel�
 ## data
 
 The following data were provided :
-price_sales_promotion.csv: (hectoliter) Holds the price, sales & promotion in dollar value per hectoliter at Agency-SKU-month level
-historical_volume.csv: (hectoliters) Holds sales data at Agency-SKU-month level from Jan 2013 to Dec 2017
-weather.csv: (Degree Celsius) Holds average maximum temperature at Agency-month level
-industry_soda_sales.csv: (hectoliters) Holds industry level soda sales
-event_calendar.csv: Holds event details (sports, carnivals, etc.)
-industry_volume.csv: (hectoliters) Holds industry actual beer volume
-demographics.csv: Holds demographic details (Yearly income in $)
+- price_sales_promotion.csv: (hectoliter) Holds the price, sales & promotion in dollar value per hectoliter at Agency-SKU-month level
+- historical_volume.csv: (hectoliters) Holds sales data at Agency-SKU-month level from Jan 2013 to Dec 2017
+- weather.csv: (Degree Celsius) Holds average maximum temperature at Agency-month level
+- industry_soda_sales.csv: (hectoliters) Holds industry level soda sales
+- event_calendar.csv: Holds event details (sports, carnivals, etc.)
+- industry_volume.csv: (hectoliters) Holds industry actual beer volume
+- demographics.csv: Holds demographic details (Yearly income in $)
 
 ## Test data Formats
 Volume_forecast.csv: You need to first forecast the demand volume for Jan’18 of all agency-SKU combination.
