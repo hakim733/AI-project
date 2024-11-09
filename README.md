@@ -17,6 +17,5 @@ NumPy
 Pandas
 Scikit-learn
 Linear Regression
-[Add a relevant image or a brief code snippet]
 
 #DataScience #MachineLearning #Python #LinearRegression #DemandForecasting #SupplyChain
