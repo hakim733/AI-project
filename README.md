@@ -7,7 +7,7 @@ Currently demand is estimated by sales executives, who generally have a â€œfeelâ
 ## data
 
 The following data were provided :
-price_sales_promotion.csv: ($/hectoliter) Holds the price, sales & promotion in dollar value per hectoliter at Agency-SKU-month level
+price_sales_promotion.csv: (hectoliter) Holds the price, sales & promotion in dollar value per hectoliter at Agency-SKU-month level
 historical_volume.csv: (hectoliters) Holds sales data at Agency-SKU-month level from Jan 2013 to Dec 2017
 weather.csv: (Degree Celsius) Holds average maximum temperature at Agency-month level
 industry_soda_sales.csv: (hectoliters) Holds industry level soda sales
